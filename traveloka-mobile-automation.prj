@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>This project aims to automate testing for the Traveloka mobile application using Katalon Studio, focusing on enhancing test efficiency and software quality. The automation targets critical features such as user authentication, booking, and payment processes to ensure reliability across multiple device environments.</description>
+   <name>traveloka-mobile-automation</name>
+   <tag></tag>
+   <UUID>8f05124b-38b5-4446-ae8f-77a13fd4c5a9</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Sharing Vision\Documents\HomeProject\traveloka-mobile-automation\traveloka-mobile-automation.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>MOBILE</type>
+</Project>
